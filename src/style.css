@@ -1,0 +1,60 @@
+body {
+  font-family: fantasy;
+  background: rgb(240, 197, 240);
+  color: black;
+  
+}
+
+.tit{
+  text-align:center;
+ 
+}
+
+.text{
+  text-align:left;
+  color:black;
+  text-decoration:underline;
+}
+
+
+.present{
+  line-height:2em;
+}
+
+#ib{
+   background: rgb(205, 103, 150);
+  margin:70px;
+   margin-left: 100px;
+  text-align:center;
+  
+}
+
+#mal{
+  
+   background: rgb(205, 103, 150);
+  margin:70px;
+   margin-left: 100px;
+  text-align:center;
+}
+
+#men{
+   background: rgb(205, 103, 150);
+  margin:70px;
+   margin-left: 100px;
+  text-align:center;
+  }
+
+#for{
+   background: rgb(205, 103, 150);
+  margin:70px;
+   margin-left: 100px;
+  text-align:center;
+}
+
+#bordes{
+    width: 400px;
+    border: 1px solid purple;
+    border-top: 11px solid purple;
+    background:rgb(235, 211, 176) 
+}
+  
